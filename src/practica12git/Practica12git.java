@@ -16,7 +16,8 @@ public class Practica12git {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola buenas");
+        System.out.println("Hola buenas");      
+        System.out.println("tortilla");
         
     }
     
